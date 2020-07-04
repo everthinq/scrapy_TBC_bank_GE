@@ -1,0 +1,3 @@
+-f /usr/share/pip-wheels
+Scrapy
+openpyxl
